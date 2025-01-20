@@ -1,5 +1,5 @@
 # **Github-ohjeet**
-![github](main/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
+![github](https://github.com/Panomies87/Github-ohjeet/blob/main/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
 
 ### Lyhyet ohjeet GitHubin käyttöön
 
