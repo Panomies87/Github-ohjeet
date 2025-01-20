@@ -3,7 +3,7 @@
 
 ### Lyhyet ohjeet GitHubin käyttöön
 
-![github](C:\Users\36561\Desktop\github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
+
 
 GitHub-repositorion luominen
 
@@ -42,7 +42,7 @@ git branch -M main
 
 git push -u origin main
 
-###Jos olet kloonaamassa olemassa olevan repositorion:
+### Jos olet kloonaamassa olemassa olevan repositorion:
 
 Kloonaa repositorio komennolla git clone https://github.com/kayttaja/repo-nimi.git.
 
