@@ -3,7 +3,7 @@
 
 ### Lyhyet ohjeet GitHubin käyttöön
 
-![gihub](C:\Users\36561\Desktop\github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
+![github](C:\Users\36561\Desktop\github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg)
 
 GitHub-repositorion luominen
 
